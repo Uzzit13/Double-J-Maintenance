@@ -68,6 +68,10 @@ section {
   background-color: #f5f6f7;
 }
 
+.section2-bg {
+  background-color: #dfdfdf;
+}
+
 .section-header {
   text-align: center;
   padding-bottom: 70px;
