@@ -753,7 +753,7 @@ section {
   line-height: 1.8;
 }
 
-.services .service-item .icon:before {
+/* .services .service-item .icon:before {
   position: absolute;
   content: "";
   height: 100%;
@@ -764,7 +764,7 @@ section {
   top: 10px;
   right: -15px;
   transition: 0.3s;
-}
+} */
 
 .services .service-item h3 {
   color: var(--color-default);
